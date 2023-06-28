@@ -9,8 +9,7 @@ library(maptools)
 
 #Load CSV (sp, lat, lon)
 
-proctest <- read.csv(test.csv)
-proctrain <- read.csv(train.csv)
+read.csv(proc)
 
 #Remover duplicados
 
