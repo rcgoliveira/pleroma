@@ -1,0 +1,13 @@
+scientificname	longitude	latitude
+Pleroma_caatingae	-39.083056	-10.072222
+Pleroma_caatingae	-39.2092018127441	-10.7524995803833
+Pleroma_caatingae	-40.418333	-12.422778
+Pleroma_caatingae	-39.4282989501953	-12.7656002044678
+Pleroma_caatingae	-39.479722	-12.829444
+Pleroma_caatingae	-40.414722	-13.403333
+Pleroma_caatingae	-40.4308013916016	-13.4411001205444
+Pleroma_caatingae	-40.2052778	-14.3147222
+Pleroma_caatingae	-40.2522222	-14.3222223
+Pleroma_caatingae	-40.215	-14.3322223
+Pleroma_caatingae	-40.215650	-3.299594
+Pleroma_caatingae	-40.395278	-3.616111
